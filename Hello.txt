@@ -3,4 +3,10 @@ public class Hello {
 python 
 jquery
 css
+Hello World 
+print 
+java
+oracle
+spring
+javascript
 }
